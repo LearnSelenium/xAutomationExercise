@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52519" started-at="2015-02-03T09:06:03Z" finished-at="2015-02-03T09:06:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52519" started-at="2015-02-03T09:06:03Z" finished-at="2015-02-03T09:06:55Z">
+      <class name="com.xero.SampleAppUI.xeroTest">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.xero.SampleAppUI.xeroTest@28f2aa38]" name="login" duration-ms="10178" started-at="2015-02-03T22:06:03Z" finished-at="2015-02-03T22:06:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="navigateToRepeatingTab()[pri:0, instance:com.xero.SampleAppUI.xeroTest@28f2aa38]" name="navigateToRepeatingTab" duration-ms="42325" started-at="2015-02-03T22:06:13Z" finished-at="2015-02-03T22:06:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToRepeatingTab -->
+      </class> <!-- com.xero.SampleAppUI.xeroTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
